@@ -8,3 +8,13 @@ Small Pig reporter is the chairman and the founder of the ApadoTech organization
 - Known Code : HTML, CSS, JavaScript
 - Bio : I love to code and create websites. 
 
+# Organization Info
+- Status : Active
+- Roles : 
+  - Chairman
+  - Founder
+  - Project Founder
+  - Devs
+  - Manager
+  - Member
+- Joined : January 2021
