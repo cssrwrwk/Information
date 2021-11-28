@@ -1,5 +1,5 @@
 # About
-ApadoTech organization is a multi-projects organization. ApadoTech organization is formed after grouping 5 projects of <a href="https://github.com/Small-Pig-reporter">Small Pig reporter</a>. It was started from the Apado project. 
+ApadoTech organization is a multi-projects organization. ApadoTech organization is formed after grouping 5 projects of <a href="https://github.com/Small-Pig-reporter">Small Pig reporter</a>. It was started from the Apado project on January 2021 by <a href="https://github.com/Small-Pig-reporter">Small Pig reporter</a>
 
 ## Apado project
 Apado is a open source web-based multi-services software. Apado is an open source software with all source code in Github. Apado also a web-based software accessible on all devices. Apado also offered up to 22 services in a SINGLE software too. 
