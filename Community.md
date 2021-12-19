@@ -22,3 +22,6 @@ We also support all useful open source projects too so we also set up a communit
 
 ## Facebook Group
 We also have a community group in the tech giant, Facebook. User could post discussion and also ask for support in our official Facebook group. Users could also get the latest announcements, news, updates in the group posted from our Facebook pages. Users could get access to it <a href="https://www.facebook.com/groups/apadotech/">here</a> after answering to questions. 
+
+## Slack channel
+We also have a community server in Slack too. Users could join into our official slack channel and get the latest news, ask for support and etc too. You could get access to our official Slack channel <a href="https://join.slack.com/t/apadotechofficial/shared_invite/zt-mrko7haf-No~FYcuNBhPVNIDTfi5hUg">here</a>
